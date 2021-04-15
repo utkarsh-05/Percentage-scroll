@@ -1,0 +1,42 @@
+body{
+    position: relative;
+}
+div{
+    font-size: 50px;
+    position: absolute;
+    width: 100px;
+    height: 25px;
+    position: fixed;
+    right: 250px;
+    top: 95px;
+}
+#box{
+    display: flex;
+    background-color: rgb(0, 255, 255);
+    height: 50px;
+    width: 320px;
+    right: 110px;
+    border-radius: 50px;
+}
+#main{
+    height: 10000px;
+    /* width: 1500px; */
+    width: 1500px   ;
+}
+#zero{
+    /* background-color: pink */
+    color: blue;
+    display: flex;
+    height: auto;
+    width: auto;
+    right: 350px;
+}
+#view{
+    /* background-color: blue; */
+    color: blue;
+    width: 250px;
+    right: 90px;
+    display: flex;
+    position: fixed;
+    
+}
